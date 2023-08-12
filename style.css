@@ -1,0 +1,50 @@
+.logos{
+    width: auto;
+    height: 40px;
+    margin: 10px;
+}
+.imgp{
+    width: auto;
+    margin: auto;
+
+    height: 10rem;
+    border-radius:100%;
+    box-shadow: 3px 5px black;
+}
+.imgdiv{
+    margin: auto;
+    align-items: center;
+    display: flex;
+    margin-bottom: 20px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes example {
+    0%{top:2px;}
+    25%  {top:-2px;}
+    50%  {top: 2px;}
+    75%  {top: -2px;}
+    100% {top: 2px;}
+}
+body{
+    background-color:bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+    flex-direction: column;
+    font-family: 'Roboto Mono', monospace;
+}
+.p{
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+a{
+
+    text-decoration: none;
+}
