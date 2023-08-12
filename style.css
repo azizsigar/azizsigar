@@ -3,6 +3,15 @@
     height: 40px;
     margin: 10px;
 }
+.projectslink{
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 2px 2px black;
+}
+.projectslink:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
 .imgp{
     width: auto;
     margin: auto;
