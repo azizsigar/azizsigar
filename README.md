@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">Im fullstack web dev</h3>
+<h3 align="center">Im developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizsigar&label=Profile%20views&color=0e75b6&style=flat" alt="azizsigar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizsigar" alt="azizsigar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Hack your future chort-48**
-
-- 🌱 I’m currently learning **react nodejs mongodb expressjs**
-
-- 💬 Ask me about **fullstack**
-
-- 📫 How to reach me **https://www.linkedin.com/in/abdulaziz-s%C4%B1%C4%9Far-5009611b2/**
-
-- ⚡ Fun fact **im funny as dope**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
