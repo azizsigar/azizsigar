@@ -1,49 +1,20 @@
-# 👋 Hello! I'm **[Your Name]** - Full-Stack Web Developer
-
-Passionate about creating efficient and scalable web applications with modern technologies. 🚀
-
----
-
-## 🛠️ **Skills & Technologies**
-
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL
-- **Other**: RESTful APIs, Git, Docker
-
----
+#  I'm **aziz** - Full-Stack Web Developer
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
 ## 🌟 **Projects**
-
-- **[Project 1](https://github.com/yourusername/project1)**: 🚀 [Brief description of the project]
-- **[Project 2](https://github.com/yourusername/project2)**: 🛠️ [Brief description of the project]
-- **[Project 3](https://github.com/yourusername/project3)**: ✨ [Brief description of the project]
-
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true&theme=dark)
-
----
+- **[QuickMath](https://azizsigar.github.io/randomquickmath/)**: 🚀 you can try to increase your iq with this project 
+## 📈 **GitHub Stats**   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizsigar&layout=compact&hide=python,tex,go,html,makefile,css&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizsigar&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ## 📫 **Contact Me**
 
-- **📧 Email**: [email@example.com](mailto:email@example.com)
-- **💼 LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **🌐 Website**: [yourwebsite.com](https://yourwebsite.com)
+- **📧 Email**: aazizsigar@gmail.com
 
----
 
 ## 🎨 **Hobbies**
 
-- 🏀 **Sports**: Basketball
-- 🎮 **Gaming**: Video games
-- 🎶 **Music**: Listening to and playing music
-
----
-
+- 
 Thank you for visiting! Don't feel free to connect with me. 🌟
 
 
@@ -64,7 +35,7 @@ Thank you for visiting! Don't feel free to connect with me. 🌟
 
 
 
-                                                                                                          𐱃𐰀𐰣𐰺𐰃 𐰋𐰃𐰔𐰃 𐰴𐰆𐰺𐰽𐰣  
+   𐱃𐰀𐰣𐰺𐰃 𐰋𐰃𐰔𐰃 𐰴𐰆𐰺𐰽𐰣  
 
 
 
