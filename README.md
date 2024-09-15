@@ -10,6 +10,8 @@
 ##  「 **Contact Me** 」
 https://www.linkedin.com/in/aziz-sigar-5009611b2/
 
+[![profile for aziz at Stack Overflow, Q&A for professional and enthusiast programmers](https://stackoverflow.com/users/flair/18731050.png)](https://stackoverflow.com/users/18731050/aziz)
+
 
 ## 「 **Hobbies** 」
 
