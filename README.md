@@ -13,8 +13,7 @@ https://www.linkedin.com/in/aziz-sigar-5009611b2/
 
 ## 「 **Hobbies** 」
 
-- 
-Thank you for visiting! Don't feel free to connect with me. 
+- music
 
 
 
