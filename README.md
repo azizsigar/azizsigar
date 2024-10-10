@@ -5,7 +5,6 @@
 - **[QuickMath](https://azizsigar.github.io/randomquickmath/)**: 🚀 you can try to increase your iq with this project 
 ##  「 **GitHub Stats** 」
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizsigar&layout=compact&hide=python,tex,go,html,makefile,css&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizsigar&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ##  「 **Contact Me** 」
 https://www.linkedin.com/in/aziz-sigar-5009611b2/
