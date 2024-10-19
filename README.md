@@ -1,8 +1,6 @@
-- Abdulaziz Sigar
+- [lAbdulaziz Sigar](https://www.linkedin.com/in/aziz-sigar-5009611b2/)
 - Full-Stack Web Dev
-
-- [linkedin](https://www.linkedin.com/in/aziz-sigar-5009611b2/)
-
+- 
 Projects
 - [QuickMath](https://azizsigar.github.io/randomquickmath/)
 
@@ -14,6 +12,9 @@ Projects
 
 
 
+
+
+    
 
 
 
