@@ -1,10 +1,10 @@
 - Abdulaziz Sigar
 - Full-Stack Web Dev
-##   「 **Projects** 」
-- **[QuickMath](https://azizsigar.github.io/randomquickmath/)**: 🚀 you can try to increase your iq with this project 
 
-[linkedin](https://www.linkedin.com/in/aziz-sigar-5009611b2/)
+- [linkedin](https://www.linkedin.com/in/aziz-sigar-5009611b2/)
 
+Projects
+- [QuickMath](https://azizsigar.github.io/randomquickmath/)
 
 
 
