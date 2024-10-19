@@ -6,10 +6,6 @@
 [linkedin](https://www.linkedin.com/in/aziz-sigar-5009611b2/)
 
 
-## 「 **Hobbies** 」
-
-- music
-
 
 
 
