@@ -3,6 +3,7 @@
   
 Projects
 - [QuickMath](https://azizsigar.github.io/randomquickmath/)
+- [WeatherToday](https://dynamic-tartufo-da50af.netlify.app/)
 
 
 
